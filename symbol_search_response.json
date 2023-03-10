@@ -1,0 +1,70 @@
+{
+    "bestMatches": [
+        {
+            "1. symbol": "FSELX",
+            "2. name": "SEMICONDUCTORS PORTFOLIO",
+            "3. type": "Mutual Fund",
+            "4. region": "United States",
+            "5. marketOpen": "09:30",
+            "6. marketClose": "16:00",
+            "7. timezone": "UTC-04",
+            "8. currency": "USD",
+            "9. matchScore": "0.7027"
+        },
+        {
+            "1. symbol": "SIUIF",
+            "2. name": "Semiconductor Manufacturing Intl Company",
+            "3. type": "Equity",
+            "4. region": "United States",
+            "5. marketOpen": "09:30",
+            "6. marketClose": "16:00",
+            "7. timezone": "UTC-04",
+            "8. currency": "USD",
+            "9. matchScore": "0.4906"
+        },
+        {
+            "1. symbol": "SMICY",
+            "2. name": "Semiconductor Manufacturing Intl Company",
+            "3. type": "Equity",
+            "4. region": "United States",
+            "5. marketOpen": "09:30",
+            "6. marketClose": "16:00",
+            "7. timezone": "UTC-04",
+            "8. currency": "USD",
+            "9. matchScore": "0.4906"
+        },
+        {
+            "1. symbol": "SMPSX",
+            "2. name": "SEMICONDUCTOR ULTRASECTOR PROFUND SERVICE CLASS",
+            "3. type": "Mutual Fund",
+            "4. region": "United States",
+            "5. marketOpen": "09:30",
+            "6. marketClose": "16:00",
+            "7. timezone": "UTC-04",
+            "8. currency": "USD",
+            "9. matchScore": "0.4333"
+        },
+        {
+            "1. symbol": "SMPIX",
+            "2. name": "SEMICONDUCTOR ULTRASECTOR PROFUND INVESTOR CLASS",
+            "3. type": "Mutual Fund",
+            "4. region": "United States",
+            "5. marketOpen": "09:30",
+            "6. marketClose": "16:00",
+            "7. timezone": "UTC-04",
+            "8. currency": "USD",
+            "9. matchScore": "0.4262"
+        },
+        {
+            "1. symbol": "MKN2.FRK",
+            "2. name": "Semiconductor Manufacturing International Corporation",
+            "3. type": "Equity",
+            "4. region": "Frankfurt",
+            "5. marketOpen": "08:00",
+            "6. marketClose": "20:00",
+            "7. timezone": "UTC+02",
+            "8. currency": "EUR",
+            "9. matchScore": "0.3939"
+        }
+    ]
+}
